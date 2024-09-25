@@ -1,0 +1,16 @@
+.footer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: var(--navy-blue);
+  padding: 80px;
+  margin-top: 20px;
+}
+.footer-img {
+  width: 150px;
+  margin-right: 20px;
+}
+.footer-text {
+  color: var(--off-white);
+  font-size: 30px;
+}

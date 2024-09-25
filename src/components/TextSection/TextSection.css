@@ -1,0 +1,33 @@
+.text-section {
+  width: 100%;
+  margin: 20px 0;
+  padding: 0;
+  margin-top: 0;
+  text-align: left;
+}
+.text-section.active {
+  margin: 10px 0;
+  padding: 0 0 20px 0;
+  border-bottom: 1px solid var(--black);
+}
+.text-section-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--black);
+}
+.text-section-text,
+.text-section ul {
+  font-size: 14px;
+  color: var(--gray-heading);
+  line-height: 1.5;
+  letter-spacing: 0.2px;
+}
+.text-section-list {
+  padding: 5px 0 5px 25px;
+}
+.text-section-list li {
+  list-style: disc;
+}
+.text-section-list.ordered li {
+  list-style: decimal;
+}

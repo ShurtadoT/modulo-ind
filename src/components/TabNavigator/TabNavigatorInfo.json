@@ -1,0 +1,26 @@
+[
+  {
+    "id": "perfil-ingreso",
+    "title": "Perfil de ingreso",
+    "content":
+      "El perfil estudiantil de la institución, según el PEI, busca formar estudiantes desde la inclusión, con responsabilidad y compromiso en su desarrollo integral. Se promueve que los estudiantes adquieran pensamiento analítico y crítico para lograr su realización personal y profesional. Se espera que comprendan, interpreten y evalúen textos académicos, resuelvan problemas matemáticos y entiendan fenómenos políticos, económicos y culturales, además de dominar una lengua extranjera según su nivel académico. Los estudiantes deben desarrollar habilidades cognitivas, investigativas, comunicativas y hacer uso responsable de las TIC. También se fomenta el trabajo en equipo, la planificación y la sensibilidad hacia la justicia, el bien común y las estructuras democráticas, con un fuerte sentido de responsabilidad social, ambiental, cultural y laboral."
+  },
+  {
+    "id": "requisitos-ingreso",
+    "title": "Requisitos para el ingreso",
+    "content":
+      "1. Poseer título de bachiller de acuerdo con las normas legales que rigen para la Educación Superior.\n2. Haber presentado el examen de Estado para el Ingreso a la Educación Superior.\n3. Adelantar inscripción y demás actividades establecidas en el cronograma académico.\n4. Resolver con solvencia los instrumentos de admisión institucional.\n5. Allegar la documentación requerida por la Institución y las pruebas de verificación que fueren solicitadas."
+  },
+  {
+    "id": "perfil-egresado",
+    "title": "Perfil del egresado",
+    "content":
+      "El perfil de egreso del Ingeniero Industrial de la Institución Universitaria de Envigado corresponde al título otorgado y al nivel de formación profesional. El ingeniero es competente para diseñar sistemas integrados que involucren personas, materiales, información, equipos y energía, con responsabilidad social y ambiental. Además, puede optimizar recursos, aplicar tecnologías emergentes y dirigir estratégicamente los recursos tecnológicos. Este perfil cumple con las demandas del sector productivo, donde se destacan áreas como sistemas productivos y operaciones (25%), gestión logística (11%), mejoramiento de procesos y calidad (11%), formación integral (19%), servicios y manufactura (15%), y análisis de proyectos, administración, gestión de operaciones y seguridad industrial (12% cada uno)."
+  },
+  {
+    "id": "perfil-ocupacional",
+    "title": "Perfil ocupacional",
+    "content":
+      "El Ingeniero industrial de la Institución Universitaria de Envigado, se podrá desempeñar en el sector público o privado, en cargos directivos, gerenciales, o mandos medios en Instituciones y empresas de diversos sectores desarrollando funciones como gerente, director, coordinador, gestor, analista, jefe, en las áreas de operaciones (planeación, logística, producción, compras, ingeniería, diseño de plantas), tecnología e innovación, talento humano, seguridad industrial, calidad, proyectos, transformación digital, entre otros."
+  }
+]
