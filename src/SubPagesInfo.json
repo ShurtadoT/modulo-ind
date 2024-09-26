@@ -1,0 +1,52 @@
+[
+  {
+    "idPage": "lean_manufacturing",
+    "titlePage": "Lean Manufacturing",
+    "imagePage":"https://iep.edu.es/wp-content/uploads/2023/11/lean-manufacturing-que-es-1024x683.webp",
+    "altPage":"Lean Manufacturing image",
+    "contentPage": [
+      {
+        "textPage": [
+          {
+            "title": "Qué es el Lean Manufacturing",
+            "text": "Lean Manufacturing o también llamado filosofía esbelta o ágil. Es una filosofía de trabajo, bajo un enfoque de la mejora continua y optimización del sistema de producción o servicio, mediante el cumplimiento de su objetivo que es la disminución del despilfarro de todo tipo, ya sea de inventarios, tiempos, producción, productos defectuosos, transportes, retrabajos por parte de equipos y personas. No es una filosofía estática ni radical que se aleja de lo ya conocido, sino mas bien su novedad consiste en la combinación de distintos elementos, técnicas, aplicaciones y mejoras surgidas en la elaboración del trabajo."
+          },
+          {
+            "title": "Beneficios",
+            "text": "Teniendo como punto de vista los resultados tangibles, cualquier empresa que pase de un “Sistema de producción en lotes y colas a un sistema Lean de flujo continuo de una sola pieza, donde es el cliente el que tira toda la producción (sistema pull) dobla la productividad de la mano de obra a lo largo de toda la cadena, reduce los tiempos de producción un 90% y reduce los inventarios un 90 también. Los errores y defectos que llegan al cliente se reducen a la mitad de la misma que los accidentes laborales. "
+          }
+        ]
+      },
+
+      {
+        "tabNavigator":[
+            {
+                "id":"",
+                "title":"Identificar el valor desde la perspectiva del cliente.",
+                "content":"El valor es creado por el productor, pero es definido por el cliente. En otras palabras, las empresas necesitan entender el valor que el cliente le da a sus productos y servicios, lo cual, a su vez, puede ayudarles a determinar cuánto dinero está dispuesto a pagar el cliente.La empresa debe esforzarse por eliminar el desperdicio y el costo de sus procesos de negocios para que el precio óptimo del cliente pueda ser alcanzado con el mayor beneficio para la empresa."
+            },
+            {
+                "id":"",
+                "title":"Mapear el flujo de valores.",
+                "content":"Este principio implica el registro y análisis del flujo de información o materiales requeridos para producir un producto o servicio específico con la intención de identificar el desperdicio y los métodos de mejora. El flujo de valor abarca todo el ciclo de vida del producto, desde las materias primas hasta su eliminación. Las empresas deben examinar cada etapa del ciclo para detectar residuos. Cualquier cosa que no agregue valor debe ser eliminada. El pensamiento lean recomienda la alineación de la cadena de suministro como parte de este esfuerzo."
+            },
+            {
+                "id":"",
+                "title":"Crear el flujo",
+                "content":"Eliminar las barreras funcionales e identificar formas de mejorar el tiempo de entrega para asegurar que los procesos sean fluidos desde el momento en que se recibe un pedido hasta la entrega. El flujo es decisivo para la eliminación del desperdicio. El Lean Manufacturing se basa en la prevención de interrupciones en el proceso de producción y en permitir un sistema equilibrado e integrado de procesos en los que las actividades se mueven en un flujo constante."
+            },
+            {
+                "id":"",
+                "title":"Establecer un sistema pull (reparto uniforme de las ordenes de producción)",
+                "content":"Esto significa que sólo se inicia un nuevo trabajo cuando hay demanda para ello.Con un sistema push, utilizado con anterioridad por los sistemas de planificación para los recursos de fabricación, las necesidades de inventario se determinan por adelantado y el producto se fabrica para cumplir con esa previsión. Sin embargo, los pronósticos son normalmente imprecisos, lo que puede resultar en oscilaciones entre un exceso de inventario y una cantidad insuficiente, así como en la posterior alteración de los programas y un deficiente servicio al cliente. En cambio, el lean manufacturing se basa en un sistema de «pull» en el que no se compra ni se fabrica nada hasta que hay demanda. El sistema «pull» se basa en la flexibilidad y la comunicación."
+            },
+            {
+                "id":"",
+                "title":"Perseguir la perfección con la mejora continua del proceso.",
+                "content":"En definitiva, el Lean manufacturing se basa en el concepto de la búsqueda continua de la perfección, lo que implica abordar las causas fundamentales de los problemas de calidad y buscar y eliminar los residuos en toda la cadena de valor."
+            }
+        ]
+      }
+    ]
+  }
+]
