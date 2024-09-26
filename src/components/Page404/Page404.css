@@ -1,0 +1,45 @@
+.page404 {
+  width: 100vw;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--off-white);
+}
+.page404-container {
+  height: 100vh;
+  max-width: calc(var(--max-width) - 20%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+.page404-image {
+  width: 100%;
+  max-width: 400px;
+}
+.page404-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.page404-title {
+  font-size: 52px;
+  font-weight: 700;
+}
+.page404-subtitle {
+  font-size: 20px;
+  font-weight: 400;
+}
+.page404-text {
+  font-size: 16px;
+  font-weight: 300;
+  display: inline;
+}
+.page404-text .page404-back {
+  margin-left: 5px;
+  color: var(--royal-blue);
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline;
+}

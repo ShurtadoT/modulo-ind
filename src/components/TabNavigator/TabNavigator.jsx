@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './TabNavigator.css';
 
-const TabNavigator = ({TabInfo}) => {
+const TabNavigator = ({ TabInfo }) => {
   const [activeTab, setActiveTab] = useState(0);
 
   return (

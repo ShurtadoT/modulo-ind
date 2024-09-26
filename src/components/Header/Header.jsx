@@ -1,13 +1,18 @@
 import './Header.css';
 import { HeaderInfo } from './HeaderInformation';
 
-const Header = ({src,alt,title}) => {
+const Header = ({ src, alt, title }) => {
   return (
     <section className='header'>
       <div className='nav-container'>
         <div className='logo-container'>
           <a href='/'>
-            <img src={'https://www.iue.edu.co/wp-content/uploads/2023/08/logo-iue-envigado.svg'} alt={'Institución Universitaria de Envigado - IUE | Logo'} title={'Institución Universitaria de Envigado - IUE | Logo'} className='logo'></img>
+            <img
+              src={'https://www.iue.edu.co/wp-content/uploads/2023/08/logo-iue-envigado.svg'}
+              alt={'Institución Universitaria de Envigado - IUE | Logo'}
+              title={'Institución Universitaria de Envigado - IUE | Logo'}
+              className='logo'
+            ></img>
           </a>
         </div>
 

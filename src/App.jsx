@@ -3,7 +3,6 @@ import './App.css';
 import Root from './pages/Root';
 import SubPages from './pages/SubPages';
 
-
 function App() {
   return (
     <Router>
